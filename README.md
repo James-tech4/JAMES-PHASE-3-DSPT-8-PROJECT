@@ -80,37 +80,33 @@ The Models were evaluated on two parameters, accuracy score and ROC-AUC score. B
 * Random Forest Model(Tuned) - Accuracy Score of 86% and  AUC of 0.92
 
 ### ROC-AUC Visualizations 
-<<<<<<< HEAD
 After building our models, ROC Curve for each Model was plotted. The ROC Curve shows the AUC(The Area Under the Curve). Below are the ROC visualizations for each Model and the combine ROC curves for all the models for better comparison
 
-### ROC Curve-Logistic Regression
+### 1. ROC Curve-Logistic Regression
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/roc%20log%20reg.png)
 
-### ROC Curve - Decision Tree(Tuned)
+### 2. ROC Curve - Decision Tree(Tuned)
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/roc%20decision%20tree.png)
 
-### ROC Curve - Random Forest(Untuned)
+### 3. ROC Curve - Random Forest(Untuned)
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Untuned%20RF%20ROC.png)
 
-### ROC Curve - Random Forest(Tuned)
+### 4. ROC Curve - Random Forest(Tuned)
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Tuned%20RF%20ROC.png)
 
-### ROC Curves - All Models
-=======
-                                        ### ROC Curve-Logistic Regression
-![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/roc%20log%20reg.png)
-
-                                        ### 2. ROC Curve - Decision Tree(Tuned)
-![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/roc%20decision%20tree.png)
-
-                                        ### 3. ROC Curve - Random Forest(Untuned)
-![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Untuned%20RF%20ROC.png)
-
-                                        ### 4. ROC Curve - Random Forest(Tuned)
-![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Tuned%20RF%20ROC.png)
-
-                                        ### 5. ROC Curves - All Models
->>>>>>> 0d731647bcd47df80f995e8329ef7bffff018495
+### 5. ROC Curves - All Models
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/All%20curves.png)
+
+
+### Conclusion
+1. Based on the evaluation results, the tuned Random Forest Model outperforms all other models, with the highest Accuracy Score of 86% and the highest AUC of 0.92, indicating that it is the most effective in predicting hotel reservation cancellations.
+   
+2. The Untuned Random Forest Model also performed well, achieving an Accuracy Score of 85% and an AUC of 0.91, indicating strong predictive capability even without hyperparameter tuning.
+
+3. The tuned Decision Tree Model showed a notable improvement over the baseline Logistic Regression Model, with an Accuracy Score of 84% and an AUC of 0.89, suggesting that decision trees, when optimized, are a reliable choice, though slightly less effective than Random Forest.
+
+4. Finally, the Logistic Regression Model (Baseline), with an Accuracy Score of 79% and an AUC of 0.86, serves as a solid starting point but demonstrates lower performance compared to more complex models like Random Forest.
+
+In conclusion, the Tuned Random Forest Model is the best-performing model for predicting hotel reservation cancellations, making it the most suitable choice for implementation in optimizing booking strategies, reducing cancellations, and improving overall hotel operations.
 
 
