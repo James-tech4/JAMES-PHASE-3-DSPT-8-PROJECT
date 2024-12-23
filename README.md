@@ -1,3 +1,5 @@
+![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Hotel%20Image.jpg)
+
 #### MODEL TO PREDICT HOTEL RESERVATION CANCELLATIONS FOR OPTIMIZED BOOKING MANAGEMENT
 
 * End of Phase Project
