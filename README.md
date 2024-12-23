@@ -80,20 +80,19 @@ The Models were evaluated on two parameters, accuracy score and ROC-AUC score. B
 * Random Forest Model(Tuned) - Accuracy Score of 86% and  AUC of 0.92
 
 ### ROC-AUC Visualizations 
-                                        1. ROC Curve-Logistic Regression
-![movie data erd]
-(https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/roc%20log%20reg.png)
+                                        ### 1. ROC Curve-Logistic Regression
+![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/roc%20log%20reg.png)
 
-                                        2. ROC Curve - Decision Tree(Tuned)
+                                        ### 2. ROC Curve - Decision Tree(Tuned)
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/roc%20decision%20tree.png)
 
-                                        3. ROC Curve - Random Forest(Untuned)
+                                        ### 3. ROC Curve - Random Forest(Untuned)
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Untuned%20RF%20ROC.png)
 
-                                        4. ROC Curve - Random Forest(Tuned)
+                                        ### 4. ROC Curve - Random Forest(Tuned)
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Tuned%20RF%20ROC.png)
 
-                                        5. ROC Curves - All Models
+                                        ### 5. ROC Curves - All Models
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/All%20curves.png)
 
 
