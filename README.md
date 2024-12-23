@@ -1,7 +1,7 @@
-### PROJECT TITLE: MODEL TO PREDICT HOTEL RESERVATION CANCELLATIONS FOR OPTIMIZED BOOKING MANAGEMENT
+### Project Title: Model to Predict Hotel Booking Cancellations for Optimized Booking Management
 
 ### Student Details
-  
+
 * Student Name: MUTHEE JAMES WACHIRA
   
 * Student Pace: Part Time
