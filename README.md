@@ -81,7 +81,7 @@ The Models were evaluated on two parameters, accuracy score and ROC-AUC score. B
 * Random Forest Model (Untuned) - Accuracy Score of 85% and AUC of 0.91
 * Random Forest Model(Tuned) - Accuracy Score of 86% and  AUC of 0.92
 
-### ROC-AUC Visualizations 
+### 11. ROC-AUC Visualizations 
 After building our models, ROC Curve for each Model was plotted. The ROC Curve shows the AUC(The Area Under the Curve). Below are the ROC visualizations for each Model and the combine ROC curves for all the models for better comparison
 
 ### 1. ROC Curve-Logistic Regression
@@ -100,23 +100,26 @@ After building our models, ROC Curve for each Model was plotted. The ROC Curve s
 ### 5. ROC Curves - All Models
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/All%20curves.png)
 
-
-### Conclusion
+### 12. Findings
 1. Based on the evaluation results, the tuned Random Forest Model outperforms all other models, with the highest Accuracy Score of 86% and the highest AUC of 0.92, indicating that it is the most effective in predicting hotel reservation cancellations.
    
 2. The Untuned Random Forest Model also performed well, achieving an Accuracy Score of 85% and an AUC of 0.91, indicating strong predictive capability even without hyperparameter tuning.
 
 3. The tuned Decision Tree Model showed a notable improvement over the baseline Logistic Regression Model, with an Accuracy Score of 84% and an AUC of 0.89, suggesting that decision trees, when optimized, are a reliable choice, though slightly less effective than Random Forest.
 
-4. Finally, the Logistic Regression Model (Baseline), with an Accuracy Score of 79% and an AUC of 0.86, serves as a solid starting point but demonstrates lower performance compared to more complex models like Random Forest.
+4. The Logistic Regression Model (Baseline), with an Accuracy Score of 79% and an AUC of 0.86, serves as a solid starting point but demonstrates lower performance compared to more complex models like Random Forest.
 
-### Future Optimizations
-From this Classification task, the tuned Random Forest Model is the most effective model for predicting hotel booking cancellations, providing the highest accuracy and AUC scores. However, there are several opportunities for further optimization and improvement in the future:
+### 13. Conclusion
+The Tuned Random Forest Model is the best-performing model for predicting hotel reservation cancellations, making it the most suitable choice for implementation in optimizing booking strategies, reducing cancellations, and improving overall hotel
 
-* Feature Engineering: Future work can focus on enhancing the model by incorporating additional features such as customer demographics, booking patterns, or external factors like weather or holidays, which could improve the model's predictive power.
+### 14. Future Optimizations
+Thw identified model can be optimized further through:
+
+* Feature Engineering: Incorporating additional features such as customer demographics, booking patterns, or external factors like weather or holidays, would improve the model's predictive power.
 
 * Model Ensemble: Combining the strengths of multiple models through techniques like stacking or boosting could improve performance. 
 
-* Real-Time Predictions: Implementing this model into a real-time system for predictive booking management could help hotels take proactive measures to minimize cancellations, optimize room availability, and enhance overall guest satisfaction.
+* Real-Time Predictions: Implementing this model into a real-time system for predictive booking management could help hotels take proactive measures to minimize cancellations.
+
 
 
