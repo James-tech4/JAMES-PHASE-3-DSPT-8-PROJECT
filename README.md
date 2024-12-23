@@ -110,6 +110,13 @@ After building our models, ROC Curve for each Model was plotted. The ROC Curve s
 
 4. Finally, the Logistic Regression Model (Baseline), with an Accuracy Score of 79% and an AUC of 0.86, serves as a solid starting point but demonstrates lower performance compared to more complex models like Random Forest.
 
-In conclusion, the Tuned Random Forest Model is the best-performing model for predicting hotel reservation cancellations, making it the most suitable choice for implementation in optimizing booking strategies, reducing cancellations, and improving overall hotel operations.
+### Future Optimizations
+From this Classification task, the tuned Random Forest Model is the most effective model for predicting hotel booking cancellations, providing the highest accuracy and AUC scores. However, there are several opportunities for further optimization and improvement in the future:
+
+* Feature Engineering: Future work can focus on enhancing the model by incorporating additional features such as customer demographics, booking patterns, or external factors like weather or holidays, which could improve the model's predictive power.
+
+* Model Ensemble: Combining the strengths of multiple models through techniques like stacking or boosting could improve performance. 
+
+* Real-Time Predictions: Implementing this model into a real-time system for predictive booking management could help hotels take proactive measures to minimize cancellations, optimize room availability, and enhance overall guest satisfaction.
 
 
