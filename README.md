@@ -96,21 +96,8 @@ After building our models, ROC Curve for each Model was plotted. The ROC Curve s
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Tuned%20RF%20ROC.png)
 
 ### ROC Curves - All Models
-=======
-                                        ### ROC Curve-Logistic Regression
-![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/roc%20log%20reg.png)
-
-                                        ### 2. ROC Curve - Decision Tree(Tuned)
-![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/roc%20decision%20tree.png)
-
-                                        ### 3. ROC Curve - Random Forest(Untuned)
-![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Untuned%20RF%20ROC.png)
-
-                                        ### 4. ROC Curve - Random Forest(Tuned)
-![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Tuned%20RF%20ROC.png)
-
-                                        ### 5. ROC Curves - All Models
->>>>>>> 0d731647bcd47df80f995e8329ef7bffff018495
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/All%20curves.png)
+
+
 
 
