@@ -80,7 +80,6 @@ The Models were evaluated on two parameters, accuracy score and ROC-AUC score. B
 * Random Forest Model(Tuned) - Accuracy Score of 86% and  AUC of 0.92
 
 ### ROC-AUC Visualizations 
-<<<<<<< HEAD
 After building our models, ROC Curve for each Model was plotted. The ROC Curve shows the AUC(The Area Under the Curve). Below are the ROC visualizations for each Model and the combine ROC curves for all the models for better comparison
 
 ### ROC Curve-Logistic Regression
