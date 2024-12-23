@@ -40,7 +40,7 @@ The objective of this project is to develop a predictive model to accurately for
 * Improve customer satisfaction by offering targeted incentives to reduce cancellations
 
 ### 4. Target Audience
-The Traget audience for this project are:
+The Target audience for this project are:
 * Hotel Managers
 * Revenue Managers
 * Hotel Owners/Executives
