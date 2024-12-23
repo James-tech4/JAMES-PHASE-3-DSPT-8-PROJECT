@@ -12,8 +12,6 @@
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Hotel%20Image.jpg)
 
 
-
-
 ### Table of Contents
 1. Project Overview
 2. Business Problem
@@ -95,7 +93,6 @@ After building our models, ROC Curve for each Model was plotted. The ROC Curve s
 ### 4. ROC Curve - Random Forest(Tuned)
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/Tuned%20RF%20ROC.png)
 
-<<<<<<< HEAD
 ### 5. ROC Curves - All Models
 ![movie data erd](https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/All%20curves.png)
 
