@@ -80,5 +80,6 @@ The Models were evaluated on two parameters, accuracy score and ROC-AUC score. B
 * Random Forest Model(Tuned) - Accuracy Score of 86% and  AUC of 0.92
 
 ### ROC-AUC Visualizations 
+https://github.com/James-tech4/JAMES-PHASE-3-DSPT-8-PROJECT/blob/main/Visualization%20Images/roc%20log%20reg.png
 
 
